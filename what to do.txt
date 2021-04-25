@@ -1,0 +1,9 @@
+pip install --user virtualenv
+
+pip install -r requirements.txt  numpy , pandas , scipy , matplotlib , jupyter , sklearn ,opencv-python 
+
+
+python -m venv ENV_NAME
+
+
+.\ENV_NAME\Scripts\activate
